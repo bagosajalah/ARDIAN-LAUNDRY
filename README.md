@@ -30,12 +30,6 @@ php artisan serve
 ```
 
 ## Screenshot
-<<<<<<< HEAD
-- Login
-- Dashboard
-- Customer
-- Order
-=======
 
 ### Login
 <img width="1920" height="1080" alt="register" src="https://github.com/user-attachments/assets/7700d4c8-c455-4760-8fab-6811eab75fcd" />
@@ -48,4 +42,3 @@ php artisan serve
 
 ### Order
 <img width="1920" height="1080" alt="order" src="https://github.com/user-attachments/assets/c104e4db-7639-4a8c-88d5-046e24ed1108" />
->>>>>>> 61b2c74c4fbd3531b61a5cfc009f45f05abe5877
