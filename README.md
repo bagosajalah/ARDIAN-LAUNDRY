@@ -30,7 +30,15 @@ php artisan serve
 ```
 
 ## Screenshot
-- Login
-- Dashboard
-- Customer
-- Order
+
+### Login
+![Login](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Customer
+![Customer](screenshots/customer.png)
+
+### Order
+![Order](screenshots/order.png)
