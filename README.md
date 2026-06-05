@@ -1,17 +1,17 @@
 # ARDIAN LAUNDRY
 
 ## Developer
-Mohamad Bagus Hermawan
+Bagus Hermawan
 
 ## Deskripsi
-Aplikasi laundry berbasis Laravel untuk mengelola pelanggan dan transaksi laundry.
+Ardian Laundry adalah aplikasi manajemen laundry berbasis Laravel yang digunakan untuk mengelola pelanggan dan transaksi laundry.
 
 ## Fitur
-- Login
-- Register
-- Dashboard
+- Login & Register
+- Dashboard Admin
 - Manajemen Customer
 - Manajemen Order
+- CRUD Data Laundry
 
 ## Teknologi
 - Laravel
@@ -19,14 +19,18 @@ Aplikasi laundry berbasis Laravel untuk mengelola pelanggan dan transaksi laundr
 - MySQL
 - Bootstrap
 
-## Instalasi
+## Cara Menjalankan
 
+```bash
 composer install
-
 cp .env.example .env
-
 php artisan key:generate
-
 php artisan migrate
-
 php artisan serve
+```
+
+## Screenshot
+- Login
+- Dashboard
+- Customer
+- Order
