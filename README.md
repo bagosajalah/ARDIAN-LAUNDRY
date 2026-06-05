@@ -41,4 +41,4 @@ php artisan serve
 <img width="1920" height="1080" alt="customer" src="https://github.com/user-attachments/assets/2ddef8ca-02df-4e0b-8de5-656d335598de" />
 
 ### Order
-(<img width="1920" height="1080" alt="order" src="https://github.com/user-attachments/assets/c104e4db-7639-4a8c-88d5-046e24ed1108" />
+<img width="1920" height="1080" alt="order" src="https://github.com/user-attachments/assets/c104e4db-7639-4a8c-88d5-046e24ed1108" />
